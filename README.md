@@ -1,5 +1,10 @@
 # GitHub Project Workspace
 
+## Live Demo / Deployment URL
+
+**Deployment URL:** Not verified yet. Add the confirmed public application URL here after checking the live service. The repository's GitHub URL is the source code, not a deployed application.
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/saikishore2410/Github) [![Issues](https://img.shields.io/github/issues/saikishore2410/Github)](https://github.com/saikishore2410/Github/issues) [![Last Commit](https://img.shields.io/github/last-commit/saikishore2410/Github)](https://github.com/saikishore2410/Github/commits/main)
 
 > A repository intended for GitHub-related experiments, utilities, or learning materials. Refer to the source files and project manifest for its exact purpose and feature set.
